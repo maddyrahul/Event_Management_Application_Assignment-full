@@ -1,0 +1,20 @@
+<div class="event-container">
+  <h1 class="heading">Upcoming Events</h1>
+
+  <ul class="event-list">
+    <li *ngFor="let event of events" class="event-item">
+      <div class="event-details">
+        <strong>{{ event.eventName }}</strong>
+        <span>{{ event.date | date: 'mediumDate' }}</span>
+      </div>
+      <div class="event-actions">
+        <button class="btn details-btn" [routerLink]="['/event-details', event.eventId]">Details</button>
+        <!-- <button class="btn register-btn" [routerLink]="['/add-guest', event.eventId, userId]">Register</button> -->
+      </div>
+    </li>
+  </ul>
+
+  <div *ngIf="events.length === 0" class="no-events">
+    <p>No upcoming events available at the moment.</p>
+  </div>
+</div>

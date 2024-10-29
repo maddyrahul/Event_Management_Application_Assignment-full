@@ -1,0 +1,106 @@
+/* Container for the event details page */
+.event-details-container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+    transition: all 0.3s ease;
+  }
+  
+  /* Add hover effect for the entire container */
+  .event-details-container:hover {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Event header with title and back button */
+  .event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .event-header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #333333;
+    margin: 0;
+  }
+  
+  /* Event information section */
+  .event-info p {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 10px 0;
+  }
+  
+  /* Actions area */
+  .actions {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  /* Primary button style */
+  .btn {
+    padding: 12px 25px;
+    font-size: 1rem;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  /* Register button (Green) */
+  .register-btn {
+    background-color: #28a745;
+    margin: 0 auto;
+  }
+  
+  .register-btn:hover {
+    background-color: #218838;
+    transform: translateY(-3px);
+  }
+  
+  /* Back button (Gray) */
+  .back-btn {
+    background-color: #6c757d;
+    color: #fff;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .back-btn:hover {
+    background-color: #5a6268;
+    transform: translateY(-3px);
+  }
+  
+  /* Responsive styling for smaller devices */
+  @media (max-width: 768px) {
+    .event-details-container {
+      padding: 20px;
+    }
+  
+    .event-header h1 {
+      font-size: 2rem;
+    }
+  
+    .event-info p {
+      font-size: 1rem;
+    }
+  
+    .btn {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    .back-btn {
+      margin-top: 15px;
+    }
+  }
+  

@@ -1,0 +1,15 @@
+
+
+<form (ngSubmit)="saveBudget()">
+  <div>
+    <label for="expenses">Expenses:</label>
+    <input type="number" [(ngModel)]="budget.expenses" name="expenses" required>
+  </div>
+
+  <div>
+    <label for="revenue">Revenue:</label>
+    <input type="number" [(ngModel)]="budget.revenue" name="revenue" required>
+  </div>
+
+  <button type="submit">Save Budget</button>
+</form>

@@ -1,0 +1,28 @@
+<div class="event-details-container" *ngIf="event">
+    <h1>{{ event.eventName }}</h1>
+  
+    <p><strong>Date:</strong> {{ event.date | date: 'mediumDate' }}</p>
+    <p><strong>Location:</strong> {{ event.location }}</p>
+    <p><strong>Description:</strong> {{ event.description }}</p>
+  
+    <!-- Display the budget details -->
+    <div *ngIf="budget">
+      <h3>Budget Details</h3>
+      <p><strong>Expenses:</strong> {{ budget.expenses | currency }}</p>
+      <p><strong>Revenue:</strong> {{ budget.revenue | currency }}</p>
+    </div>
+  
+    <div class="actions">
+      <button class="btn register-btn" [routerLink]="['/add-guest', event.eventId, userId]">Register</button>
+    </div>
+  
+    <!-- Back button to return to the dashboard -->
+    <div class="back-btn-container">
+      <button class="btn back-btn" (click)="goBack()">Back to Dashboard</button>
+    </div>
+  </div>
+  
+  <div *ngIf="!event">
+    <p>Loading event details...</p>
+  </div>
+  

@@ -1,0 +1,98 @@
+/* Style for the form container */
+.update-event-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Title styling */
+.form-title {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+  color: #2c3e50;
+}
+
+/* Form group styling */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  font-weight: 600;
+  color: #34495e;
+  margin-bottom: 8px;
+}
+
+.form-control {
+  width: 100%;
+  padding: 12px 16px;
+  font-size: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #fafafa;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #3498db;
+  outline: none;
+  box-shadow: 0 0 6px rgba(52, 152, 219, 0.5);
+}
+
+/* Textarea for description */
+textarea.form-control {
+  height: 120px;
+  resize: vertical;
+}
+
+/* Error message styling */
+.error small {
+  color: #e74c3c;
+  font-size: 13px;
+}
+
+/* Submit button styling */
+.submit-btn {
+  width: 100%;
+  padding: 14px;
+  background-color: #3498db;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.submit-btn:hover {
+  background-color: #2980b9;
+  transform: translateY(-3px);
+}
+
+.submit-btn:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+/* Form responsiveness */
+@media (max-width: 600px) {
+  .update-event-container {
+    padding: 20px;
+  }
+
+  .form-title {
+    font-size: 24px;
+  }
+
+  .submit-btn {
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,17 @@
+<h1>Event List</h1>
+<ul>
+  <li *ngFor="let event of events">
+    <div>
+      <strong>{{ event.eventName }}</strong> <br><span>{{ event.date | date}}</span>
+    </div>
+    <div class="actions">
+      <button [routerLink]="['/budget', event.eventId]">Manage Budget</button>
+      <button (click)="deleteEvent(event.eventId)" class="delete-btn">Delete</button>
+      <button [routerLink]="['/update-event', event.eventId]">Update Event</button>
+    </div>
+  </li>
+</ul>
+
+<div *ngIf="events.length === 0" class="no-events">
+  <p>No  events available at the moment.</p>
+</div>

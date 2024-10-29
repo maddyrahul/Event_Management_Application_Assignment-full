@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\budgetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\business_layer\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\business_layer\\business_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\business_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\data_access_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\data_access_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\presentation_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\dtos\\guestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\dtos\\guestlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\presentation_layer\\controllers\\guestlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D453E5AE-3A0F-4E23-B99B-4FDFC1A494EB}|Presentation_Layer\\Presentation_Layer.csproj|solutionrelative:presentation_layer\\controllers\\guestlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\business_layer\\services\\guestlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3286A5F5-29E1-49D0-ABD9-F531EBEA9B40}|Business_Layer\\Business_Layer.csproj|solutionrelative:business_layer\\services\\guestlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\repositories\\guestlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\guestlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|c:\\users\\rahulmaddheshiya\\downloads\\event_management_application_assignment\\event management application\\data_access_layer\\repositories\\iguestlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217C986D-06A1-4413-96D5-6FB31139A9A2}|Data_Access_Layer\\Data_Access_Layer.csproj|solutionrelative:data_access_layer\\repositories\\iguestlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Program.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Program.cs",
+              "RelativeToolTip": "Presentation_Layer\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAD4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:51:13.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Data_Access_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Data_Access_Layer.csproj",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Data_Access_Layer.csproj",
+              "RelativeToolTip": "Data_Access_Layer\\Data_Access_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T13:03:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:22:49.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:54:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation_Layer\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\appsettings.json",
+              "RelativeToolTip": "Presentation_Layer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T03:49:26.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:44:09.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BudgetController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\BudgetController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\BudgetController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\BudgetController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\BudgetController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T10:44:35.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T06:39:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Presentation_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Presentation_Layer.csproj",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Presentation_Layer.csproj",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Presentation_Layer.csproj",
+              "RelativeToolTip": "Presentation_Layer\\Presentation_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T12:40:54.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Services\\AuthService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\AuthService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:25:23.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:23:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Business_Layer.csproj",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Business_Layer.csproj",
+              "RelativeDocumentMoniker": "Business_Layer\\Business_Layer.csproj",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Business_Layer.csproj",
+              "RelativeToolTip": "Business_Layer\\Business_Layer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T13:03:19.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data_Access_Layer\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAwwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:54:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GuestListController.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\GuestListController.cs",
+              "RelativeDocumentMoniker": "Presentation_Layer\\Controllers\\GuestListController.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Presentation_Layer\\Controllers\\GuestListController.cs",
+              "RelativeToolTip": "Presentation_Layer\\Controllers\\GuestListController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:42:05.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GuestListDto.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\DTOs\\GuestListDto.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\DTOs\\GuestListDto.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\DTOs\\GuestListDto.cs",
+              "RelativeToolTip": "Data_Access_Layer\\DTOs\\GuestListDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:27:00.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GuestListService.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Services\\GuestListService.cs",
+              "RelativeDocumentMoniker": "Business_Layer\\Services\\GuestListService.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Business_Layer\\Services\\GuestListService.cs",
+              "RelativeToolTip": "Business_Layer\\Services\\GuestListService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:25:24.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GuestListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\GuestListRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\GuestListRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\GuestListRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\GuestListRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:25:14.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\IAuthRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\IAuthRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:22:28.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGuestListRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\IGuestListRepository.cs",
+              "RelativeDocumentMoniker": "Data_Access_Layer\\Repositories\\IGuestListRepository.cs",
+              "ToolTip": "C:\\Users\\rahulmaddheshiya\\Downloads\\Event_Management_Application_Assignment\\Event Management Application\\Data_Access_Layer\\Repositories\\IGuestListRepository.cs",
+              "RelativeToolTip": "Data_Access_Layer\\Repositories\\IGuestListRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T05:21:48.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

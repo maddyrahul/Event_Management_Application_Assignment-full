@@ -1,0 +1,16 @@
+<h1>All Guest Lists</h1>
+
+<ul *ngIf="guests.length > 0; else noGuests" class="guest-list">
+  <li *ngFor="let guest of guests" class="guest-item">
+    <span class="guest-info">{{ guest.userName }} ({{ guest.email }}) - Event: {{ events[guest.eventId] || 'Loading...' }}</span>
+    
+    <div class="actions">
+      <button (click)="editGuest(guest.guestListId, guest.eventId)" class="btn edit-btn">Edit</button>
+      <button (click)="deleteGuest(guest.guestListId)" class="btn delete-btn">Delete</button>
+    </div>
+  </li>
+</ul>
+
+<ng-template #noGuests>
+  <p class="no-guests-message">No guests found.</p>
+</ng-template>

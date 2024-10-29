@@ -1,0 +1,16 @@
+<h1>Register for Event</h1>
+
+<!-- Display error message if it exists -->
+<div *ngIf="errorMessage" class="error-message">
+  {{ errorMessage }}
+</div>
+
+<form (ngSubmit)="addGuest()">
+  <label for="username">UserName</label>
+  <input type="text" [(ngModel)]="guest.userName" name="username" required>
+
+  <label for="email">Email</label>
+  <input type="email" [(ngModel)]="guest.email" name="email" required>
+
+  <button type="submit">Register</button>
+</form>

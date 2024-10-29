@@ -1,0 +1,53 @@
+<!-- <div class="container mt-5">
+    <h2 class="text-center">Registered Event Details</h2>
+    <div *ngIf="registeredEvents.length === 0" class="text-center mt-5">
+      <p>You haven't registered for any events yet.</p>
+    </div>
+  
+    <div *ngIf="registeredEvents.length > 0" class="row">
+      <div *ngFor="let event of events" class="col-md-6">
+        <div class="card mb-4 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title">{{ event.eventName }}</h5>
+            <p class="card-text">
+              <strong>Date:</strong> {{ event.date }} <br />
+              <strong>Location:</strong> {{ event.location }} <br />
+              <strong>Description:</strong> {{ event.description }}
+            </p>
+           
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div> -->
+  
+
+  <div class="container mt-5">
+    <h2 class="text-center">Registered Event Details</h2>
+    
+    <div *ngIf="registeredEvents.length === 0" class="text-center mt-5">
+      <p>You haven't registered for any events yet.</p>
+    </div>
+  
+    <div *ngIf="registeredEvents.length > 0" class="row">
+      <div *ngFor="let event of events; let i = index" class="col-md-6">
+        <div class="card mb-4 shadow-sm">
+          <div class="card-body">
+            <h5 class="card-title">{{ event.eventName }}</h5>
+            <p class="card-text">
+              <strong>Date:</strong> {{ event.date }} <br />
+              <strong>Location:</strong> {{ event.location }} <br />
+              <strong>Description:</strong> {{ event.description }}
+            </p>
+           
+          
+            <button (click)="removeEvent(registeredEvents[i].guestListId, i)" class="btn btn-danger">
+              Cancel Registration
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+   
